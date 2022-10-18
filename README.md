@@ -1,16 +1,24 @@
-### Hi there 👋
+### Olá! Eu sou o Jefferson Luís 👋
 
-<!--
-**jeflsantos/jeflsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeflsantos/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Jeflssantos)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_jeflzk/)
 
-Here are some ideas to get you started:
+![Jeflsantos GitHub stats](https://github-readme-stats.vercel.app/api?username=jeflsantos&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que eu uso no meu dia a dia:
+
+<div style="display: inline_block"><br/>
+  <img align="center" aLt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img align="center" aLt="Spring Boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img align="center" aLt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+   <img align="center" aLt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+ </div><br/>
+ 
+ 
+ ### O estudo amplia as possibilidades e o conhecimento te dá asas para voar mais alto!
+ 
+ 
+ 
+ 
+
