@@ -6,6 +6,8 @@
 
 ![Jeflsantos GitHub stats](https://github-readme-stats.vercel.app/api?username=jeflsantos&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeflsantos&layout=compact)](https://github.com/jeflsantos/github-readme-stats)
+
 ## Tecnologias que eu uso no meu dia a dia:
 
 <div style="display: inline_block"><br/>
